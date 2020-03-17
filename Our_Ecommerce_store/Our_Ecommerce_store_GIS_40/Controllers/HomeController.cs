@@ -18,16 +18,16 @@ namespace Our_Ecommerce_store_GIS_40.Controllers
             {
             ////creating roles //////
 
-           // //IdentityRole admin = new IdentityRole("admin");
-           // //IdentityRole owner = new IdentityRole("owner");
-           // //IdentityRole client = new IdentityRole("client");
-           // ////////creating roles roles to database by creating object of rolemanger which has function called createrole
+            //IdentityRole admin = new IdentityRole("admin");
+            //IdentityRole owner = new IdentityRole("owner");
+            //IdentityRole client = new IdentityRole("client");
+            ////////creating roles roles to database by creating object of rolemanger which has function called createrole
 
-           // //RoleManager<IdentityRole> rolemanger = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(new ApplicationDbContext()));
+            //RoleManager<IdentityRole> rolemanger = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(new ApplicationDbContext()));
 
-           // //rolemanger.Create(admin);
-           // //rolemanger.Create(owner);
-           //// rolemanger.Create(client);
+            //rolemanger.Create(admin);
+            //rolemanger.Create(owner);
+            // rolemanger.Create(client);
 
             //assign roles by usermanger/////
 
