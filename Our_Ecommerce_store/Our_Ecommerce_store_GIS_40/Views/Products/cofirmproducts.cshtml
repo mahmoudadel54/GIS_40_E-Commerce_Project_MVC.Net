@@ -1,0 +1,132 @@
+﻿@model IEnumerable<Our_Ecommerce_store_GIS_40.Models.Products>
+
+@{
+    ViewBag.Title = "Waiting  Products list";
+}
+
+<style>
+    .table .thead-dark th {
+        text-align: center;
+    }
+
+    .display-1 {
+        text-align: center;
+        font-size: 4rem;
+        display: flow-root;
+        margin-left: 222px;
+        margin-right: 277px;
+        background: gainsboro;
+        text-align: center;
+        border: solid;
+        border-color: black;
+    }
+
+    .table td {
+        text-align: center;
+    }
+</style>
+
+<h3 class="display-1 text-wrap" style="">All Products You Have</h3>
+<br />
+<p>
+    @Html.ActionLink("+ Add New Product", "Create", null, new { @class = "btn btn-secondary" })
+</p>
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">
+                @Html.DisplayName("Product Name")
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.cat.Name)
+            </th>
+            <th scope="col">
+                @Html.DisplayName("Brand Name")
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Descripton)
+            </th>
+           
+            <th scope="col">
+                @Html.DisplayName("Product Image")
+            </th>
+            <th scope="col">
+                @Html.DisplayName("Approved")
+            </th>
+            <th scope="col">
+
+            </th>
+
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cat.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.brand.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripton)
+            </td>
+        
+            <td>
+                <img class="immmmg" src="~/Content/@item.Imageurl" style="width:300px;height:300px">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Approved)
+            </td>
+            <td style="text-align: center;">
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-secondary active">
+                        <input type="radio" name="options" id="option1" checked><a href="~/Products/Edit/@item.Id" style="color:white;"> Edit</a>
+                    </label>
+                </div>
+                <br />
+                <br />
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-secondary active">
+                        <input type="radio" name="options" id="option1" checked><a href="~/Products/Details/@item.Id" style="color:white;"> Details</a>
+                    </label>
+                </div>
+                <br />
+                <br />
+
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-secondary active">
+                        <input type="radio" name="options" id="option1" checked><a href="~/Products/Delete/@item.Id" style="color:white;"> Delete</a>
+                    </label>
+                </div>
+                <br />
+                <br />
+
+
+                @if (User.IsInRole("admin"))
+                {
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label class="btn btn-secondary active">
+                            <input type="radio" name="options" id="option1" checked><a href="~/Products/Confirm/@item.Id" style="color:white;"> Confirm</a>
+                        </label>
+                    </div>
+
+
+                }
+
+
+            </td>
+        </tr>
+    }
+
+</table>

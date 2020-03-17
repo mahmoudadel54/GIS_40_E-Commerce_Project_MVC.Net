@@ -1,0 +1,634 @@
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Intial.resources
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Update_After_Yasser_work.resources
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.add_Discount_To_Product.resources
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_some_properties_to_user.resources
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_product_user.resources
+D:\GIS ITI\ASP.NET\exercises\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_Rel_Users_Products.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Intial.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Update_After_Yasser_work.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.add_Discount_To_Product.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_some_properties_to_user.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_product_user.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_Rel_Users_Products.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_Order_OrderDetail_Entities.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Add_DateToOrder_and_rel_bet_orderDetailAndProduct.resources
+D:\GIS ITI\ASP.NET\Project\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.kjkjkj.resources
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Init.resources
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+D:\GIS ITI\ASP.NET\exercises\Final_Final_Final_project11-3-2020\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.update_order_detail_table.resources
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Init.resources
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.update_order_detail_table.resources
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+D:\GIS ITI\ASP.NET\Project\Project15-3-2020\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Init.resources
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.update_order_detail_table.resources
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+E:\souq_project\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Init.resources
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.update_order_detail_table.resources
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+C:\Users\Yasser\Downloads\New folder (3)\E-commerce_Website\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\ApplicationInsights.config
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\csc.exe
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\vbc.exe
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll.config
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Our_Ecommerce_store_GIS_40.pdb
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Owin.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\WebGrease.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.Web.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\PagedList.Mvc.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Helpers.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Mvc.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Optimization.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.Razor.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\System.Web.WebPages.Razor.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Antlr3.Runtime.pdb
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Newtonsoft.Json.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\EntityFramework.SqlServer.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csprojResolveAssemblyReference.cache
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.Init.resources
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.Migrations.update_order_detail_table.resources
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.csproj.GenerateResource.Cache
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.dll
+C:\Users\MMA\Downloads\Final67\E-commerce_Website\Our_Ecommerce_store\Our_Ecommerce_store_GIS_40\obj\Debug\Our_Ecommerce_store_GIS_40.pdb

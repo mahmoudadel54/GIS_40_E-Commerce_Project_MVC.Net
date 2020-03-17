@@ -1,0 +1,160 @@
+﻿@model Cat_Pro_Bra_viewModel
+
+@{
+    ViewBag.Title = "Add New Product";
+}
+
+<style>
+    input, select, textarea {
+        max-width: 320px;
+        width: 320px;
+    }
+
+    textarea {
+        height: 149px;
+    }
+
+    select {
+        height: 39px;
+        width: inherit;
+    }
+</style>
+<h2 class="display-4">Add New Product</h2>
+<div class="container-fluit">
+    <form method="post" enctype="multipart/form-data">
+
+        @Html.AntiForgeryToken()
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.product.Name, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-6 mb-3">
+                @Html.EditorFor(model => model.product.Name, new { htmlAttributes = new { @class = "form-control " } })
+                @Html.ValidationMessageFor(model => model.product.Name, "", new { @class = "text-danger" })
+            </div>
+
+
+            <div class="form-group ">
+                @Html.LabelFor(model => model.product.Cost, htmlAttributes: new { @class = "control-label col-md-6" })
+                <div class="col-md-6 mb-3">
+                    @Html.EditorFor(model => model.product.Cost, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.product.Cost, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group ">
+                @Html.LabelFor(model => model.product.Descripton, htmlAttributes: new { @class = "control-label col-md-6" })
+                <div class="col-md-6 mb-3">
+                    @Html.EditorFor(model => model.product.Descripton, new { htmlAttributes = new { @class = "form-control " } })
+                    @Html.ValidationMessageFor(model => model.product.Descripton, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group ">
+                @Html.LabelFor(model => model.product.Descripton2, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-6 mb-3">
+                    @Html.TextAreaFor(model => model.product.Descripton2, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.product.Descripton2, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="form-group ">
+            @Html.LabelFor(model => model.product.cat_Id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(e => e.product.cat_Id,
+new SelectList(Model.Categories, "Id", "Name"),
+"Select Category", new { @id = "cat_Id" })
+                @Html.ValidationMessageFor(model => model.product.cat_Id, null, new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group ">
+            @Html.LabelFor(model => model.product.brand_Id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select onchange='clickothers(value)' id='brand_Id' name='product.brand_Id'> Select Brand</select>
+                <input type="text" id="NEWBRAND" name="NEWBRAND" />
+                @Html.ValidationMessageFor(model => model.product.brand_Id, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group " style="display: flex;">
+            <label for="img" class="control-label col-md-2" style="width: 772px;">Select image:</label>
+            <div class="col-md-10">
+                <input type="file" id="UploadImage" name="UploadImage">
+                @Html.ValidationMessageFor(model => model.product.Imageurl, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <hr />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-primary" style="width: 119px;" />
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </form>
+</div>
+<div>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+<script>
+    document.getElementById("NEWBRAND").style.display = "none";
+
+    $(document).ready(function () {
+
+
+
+        $("#cat_Id").change(function () {
+            document.getElementById("brand_Id").style.display = "flex";
+
+            document.getElementById("NEWBRAND").style.display = "none";
+            document.getElementById("NEWBRAND").value = "";
+
+            var id = $(this).val();
+
+            $("#brand_Id").empty();
+
+            $.get("Create2", { id: id }, function (data) {
+
+
+                var v = "<option  >--Select Brand--</option>";
+
+                $.each(JSON.parse(data), function (i, v1) {
+
+                    v += "<option  value=" + v1.Id + ">" + v1.Name + "</option>";
+
+                });
+
+                v += "<option onchange='clickothers()'> others  </option>";
+
+                $("#brand_Id").html(v);
+
+            });
+
+        });
+    })
+
+
+</script>
+
+
+<script>
+
+    function clickothers(dd) {
+        if (dd == "others") {
+
+            document.getElementById("brand_Id").style.display = "none";
+
+            document.getElementById("NEWBRAND").style.display = "flex";
+
+        }
+        else {
+
+            document.getElementById("NEWBRAND").innerText = "";
+        }
+    }
+
+</script>

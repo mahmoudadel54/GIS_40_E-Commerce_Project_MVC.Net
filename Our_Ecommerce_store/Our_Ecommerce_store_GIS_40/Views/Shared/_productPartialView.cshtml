@@ -1,0 +1,62 @@
+﻿@model List<Products>
+<div id="card">
+    @{
+
+        if (Model.Count >= 4)
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                if (Model[i].Approved == "Yes")
+                {
+
+            <hr />
+            <div class="badge rounded border border-primary ">
+                <a href="@Url.Action("Details/" + @Model[i].Id, "Products")">
+                    <img src="~/Content/@Model[i].Imageurl" class="card-img-top" style="width: 245px; height: 265px;">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model[i].Name</h5>
+                        <p class="card-text">@Model[i].Descripton</p>
+                        <a href="#" class="btn btn-primary">@Model[i].Cost</a>
+                    </div>
+                </a>
+                <a href="~/cart/orderNow/@Model[i].Id">Add to Cart</a>
+
+            </div>
+                }
+
+            }
+        }
+        else
+        {
+            for (int i = 0; i < Model.Count; i++)
+            {
+                if (Model[i].Approved == "Yes")
+                {
+
+                <hr />
+                <div class="badge rounded border border-primary ">
+                    <a href="@Url.Action("Details/" + @Model[i].Id, "Products")">
+                        <img src="~/Content/@Model[i].Imageurl" class="card-img-top" style="width: 245px; height: 265px;">
+                        <div class="card-body">
+                            <h5 class="card-title">@Model[i].Name</h5>
+                            <p class="card-text">@Model[i].Descripton</p>
+                            <a href="#" class="btn btn-primary">@Model[i].Cost</a>
+                        </div>
+                    </a>
+                    <a href="~/cart/orderNow/@Model[i].Id">Add to Cart</a>
+
+                </div>
+                }
+                }
+            }
+        }
+
+</div>
+<style>
+    #card {
+        display: flex;
+    }
+</style>
+
+
+

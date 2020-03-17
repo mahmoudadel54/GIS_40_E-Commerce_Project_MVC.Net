@@ -1,0 +1,193 @@
+﻿
+@{
+    ViewBag.Title = "Checkout";
+}
+<style>
+    .table .thead-dark th {
+        text-align: center;
+    }
+
+    /*.display-1 {
+        text-align: center;
+        font-size: 4rem;
+        display: flow-root;
+        margin-left: 222px;
+        margin-right: 277px;
+        background: gainsboro;
+        text-align: center;
+        border: solid;
+        border-color: black;
+    }*/
+
+    .table td {
+        text-align: center;
+    }
+</style>
+<h2>Checkout</h2>
+
+<style>
+    td {
+        text-align: center;
+    }
+
+    th {
+        text-align: center;
+    }
+</style>
+               @{ if (Session["Cart"] != null)
+                   {
+<div class="container mb-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Product Image </th>
+                            <th scope="col">Product</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col">Price</th>
+                            <th>Add One</th>
+                            <th>Remove One</th>
+                            <th> </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if ((List<cart>)Session["Cart"] != null)
+                        {
+                            foreach (var cart in (List<cart>)Session["Cart"])
+                            {
+                                <tr>
+                                    <td> <img src="~/Content/@cart.Product.Imageurl" style="width:50px;height:50px;" /></td>
+                                    <td>
+                                        @cart.Product.Name
+                                    </td>
+                                    <td>
+                                        @cart.Quantity
+                                    </td>
+                                    <td>
+                                        @*@cart.Product.Cost*@
+                                        @(String.Format("{0:N0}", cart.Product.Cost * cart.Quantity))
+                                    </td>
+                                    <td>
+                                        <button onclick="window.location.href = '/Cart/orderNow/@cart.Product.Id ';" class="btn btn-sm btn-danger">
+                                            <i class="fa fa-trash btn btn-danger">+ Add</i>
+                                        </button>
+                                    </td>
+                                    <td>
+                                        <button onclick="window.location.href = '/Cart/removeone/@cart.Product.Id';" class="btn btn-sm btn-danger">
+                                            <i class="fa fa-trash btn btn-danger">- Remove</i>
+                                        </button>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td><strong>Total</strong></td>
+                            <td class="text-right">
+                                <strong>
+                                    @{
+                                        List<cart> temp = (List<cart>)Session["Cart"];
+                                        var total = String.Format("{0:N0}", temp.Sum(x => x.Quantity * x.Product.Cost));
+                                    }
+                                    @total
+                                </strong>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                                       
+            </div>
+        </div>
+
+     
+    </div>
+</div>
+
+                            }
+                            else
+                            {
+                                <h4>No item in your cart !!</h4>
+                                <a href="/Home/Index" >Back to Home Page</a>
+                            }
+}
+@using (Html.BeginForm("ProcessOrder", "cart", FormMethod.Post, new { id = "customer-form" }))
+{
+    <form>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Name</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter name">
+            
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Phone</label>
+            <input type="number" class="form-control" id="exampleInputPassword1" placeholder="Enter Phone">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Email</label>
+            <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Enter Email">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Address</label>
+            <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Address">
+        </div>
+        
+        @*<button onclick="location.href='@Url.Action("Index", "Users")';  type="submit" class="btn btn-primary">Proced to Checkout</button>
+        @Html.ActionLink("Proced to Checkout", "OrderSuccess", "Checkout",null,new { @class = "btn btn-primary" })*@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Proceed to checkout" class="btn btn-primary" />
+            </div>
+        </div>
+
+
+    </form>
+
+@*<table >
+    <tr>
+        <td colspan="3" >Customer's Information</td>
+    </tr>
+    <tr>
+        <td>Customer Name: </td>
+        <td><input type="text" name="custName" /></td>
+    </tr>
+    <tr>
+        <td>Customer Phone: </td>
+        <td><input type="text" name="custPhone" /></td>
+    </tr>
+    <tr>
+        <td>Customer Email: </td>
+        <td><input type="text" name="custEmail" /></td>
+    </tr>
+    <tr>
+        <td>Customer Address: </td>
+        <td><input type="text" name="custAddress" /></td>
+    </tr>
+    <tr>
+        <td colspan="3"> <input type="submit" value="Make the order" /></td>
+    </tr>
+</table>*@
+}
+<script type="text/javascript">
+    $("#customer-form").validate({
+        rules: {
+            custName: {
+                required: true
+            },
+            custPhone: {
+                required: true
+            },
+            custEmail: {
+                required: true
+            },
+            custAddress: {
+                required: true
+            }
+        }
+    });
+</script>

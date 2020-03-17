@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Categories>
+@{
+    ViewBag.Title = "List Of Categories";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@foreach (Categories CatName in Model)
+{
+
+    <br />
+    <div>
+        @Html.ActionLink(CatName.Name, "CardCategories/" + CatName.Id, "Categories")
+    </div>
+
+
+
+}
+
+
+

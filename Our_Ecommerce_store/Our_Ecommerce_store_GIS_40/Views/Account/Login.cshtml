@@ -1,0 +1,92 @@
+﻿@using Our_Ecommerce_store_GIS_40.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+<style>
+    input, select, textarea {
+        max-width: 500px;
+    }
+
+
+    textarea {
+        height: 149px;
+        width: 420px;
+    }
+
+    select {
+        height: 39px;
+    }
+
+    .myCheckBox {
+        width: 133px;
+        position: relative;
+        top: 6px;
+    }
+
+    div input #login {
+        width: 90px;
+    }
+</style>
+
+
+<h2 class="display-4" style="margin-left: 30px;">@ViewBag.Title.</h2>
+<div class="row form-group">
+    <div class="container-fluit">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label " })
+                    <div class="col-md-10" style="width:400px;">
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control mytext" })
+                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10" style="width:400px;">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control mytext" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox" style="display: flex;">
+                            @Html.LabelFor(m => m.RememberMe)
+                            @Html.CheckBoxFor(m => m.RememberMe, new { @class = "myCheckBox" })
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group" style="display: flex;margin-left: 15px;">
+                    <div style="width:90px">
+                        <input type="submit" value="Log in" class="btn btn-primary " id="login" />
+                    </div>
+                    <div>
+
+                        @Html.ActionLink("Register as a new user", "Register", "", new { @class = "btn btn-success" })
+                    </div>
+
+                </div>
+
+                <br />
+
+                <div>
+                    <p>
+                        @Html.ActionLink("Forgot your password?", "ForgotPassword", "", new { @class = "btn btn-outline-primary" })
+                    </p>
+                </div>
+            }
+        </section>
+    </div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

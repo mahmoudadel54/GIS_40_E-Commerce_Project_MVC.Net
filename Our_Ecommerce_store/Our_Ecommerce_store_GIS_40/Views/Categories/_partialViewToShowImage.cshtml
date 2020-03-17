@@ -1,0 +1,20 @@
+﻿@model Products
+
+
+<style>
+
+</style>
+
+
+
+<div class="ImageWindow">
+    @*@Model.ImagePath;*@
+    @*<img src="~/Images/images.jpg" />*@
+
+
+    <img src="~/Images/@Url.Content(Model.Imageurl) " width="480" height="500" />
+
+
+
+</div>
+

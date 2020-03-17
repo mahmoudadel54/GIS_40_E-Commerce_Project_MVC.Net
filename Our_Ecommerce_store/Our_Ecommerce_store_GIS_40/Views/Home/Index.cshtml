@@ -1,0 +1,61 @@
+﻿@model Cat_Pro_Bra_viewModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<style>
+    
+    .carousel-control-prev {
+        display: none;
+    }
+
+    .carousel-control-next {
+        display: none;
+    }
+    .slider{
+      
+    margin-top: 20px;
+    border: solid gray;
+    border-radius: 5px;
+    border-width: thick;
+    }
+</style>
+
+
+
+<div class="slider">    
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/Images/iphone-x-fold.jpg" class="d-block w-100" height="400" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/sams11.jpg" class="d-block w-100" height="400" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/xaon10.jpg" class="d-block w-100" height="400" alt=" ...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/hawp40.jpg" class="d-block w-100" height="400" alt=" ...">
+            </div>
+        </div>
+    </div>
+    </div>
+
+<hr />
+
+@{
+    foreach (var item in Model.Categories)
+    {
+        
+        <label>@item.Name</label>
+        Html.RenderPartial("_productPartialView", Model.Products.Where(e => e.cat.Id == item.Id).ToList());
+
+    }
+}

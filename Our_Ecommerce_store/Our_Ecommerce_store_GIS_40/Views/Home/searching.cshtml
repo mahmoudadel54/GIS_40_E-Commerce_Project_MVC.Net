@@ -1,0 +1,35 @@
+﻿@model Cat_Pro_Bra_viewModel
+
+
+<hr />
+
+
+
+@*@{
+    foreach (var item in Model.Products)
+    {
+
+        
+        Html.RenderPartial("~/Views/Categories/_partialViewEachCategory.cshtml", item);
+
+    }
+}*@
+
+@foreach (Products item in Model.Products)
+{
+
+   
+
+        <div class="badge rounded border border-primary ">
+            <a href="@Url.Action("Details/" + item.Id, "Products")">
+                <img src="~/Images/@item.Imageurl" class="card-img-top" style="width: 245px; height: 265px;">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Descripton</p>
+                    <a href="#" class="btn btn-primary">@item.Cost</a>
+                </div>
+            </a>
+        </div>
+
+    }
+    

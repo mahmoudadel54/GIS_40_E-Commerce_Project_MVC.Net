@@ -1,0 +1,80 @@
+﻿@model IPagedList<Products>
+@{
+
+
+    ViewBag.Title = "Products Of " + ViewBag.Title + " Category";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+@using PagedList.Mvc;
+@using PagedList;
+
+<h2 class="body-content">@ViewBag.Title</h2>
+
+<style>
+    .lead {
+        margin-bottom: 6px;
+    }
+
+    .pagination {
+        margin-top: 51px;
+        float: right;
+    }
+
+    .pagination-container {
+        color: white;
+        display: flex;
+        flex-flow: row-reverse;
+    }
+
+    .badge {
+        margin-left: 12px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .rounded {
+        border-radius: 1.25rem !important;
+    }
+
+    fotter p {
+        color: white;
+    }
+</style>
+@foreach (Products item in Model)
+{
+
+    if (item.Approved == "Yes")
+    {
+
+    <div class="badge rounded border border-primary ">
+        <a href="@Url.Action("Details/" + item.Id, "Products")">
+            <img src="~/Images/@item.Imageurl" class="card-img-top" style="width: 245px; height: 265px;">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">@item.Descripton</p>
+                <a href="#" class="btn btn-primary">@item.Cost</a>
+            </div>
+        </a>
+    </div>
+
+    }
+
+}
+@Html.PagedListPager(Model, i => Url.Action("CardCategories", "Categories",
+    new { i, search = Request.QueryString["search"] }),
+    new PagedListRenderOptions() { LiElementClasses = new List<string> { "page-item", "btn-link btn btn-light" } })
+
+<script>
+
+    function DetailsProduct(Id)
+    {
+        $('#exampleModal').modal('hide');
+
+
+    }
+</script>

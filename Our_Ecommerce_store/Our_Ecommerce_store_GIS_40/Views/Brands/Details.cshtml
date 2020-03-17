@@ -1,0 +1,55 @@
+﻿@model Cat_Pro_Bra_viewModel
+
+@{
+    ViewBag.Title = Model.brand.Name+" "+"Brand";
+}
+
+@*<h2>Details</h2>*@
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Name of Brand")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.brand.Name)
+        </dd>
+        <dt>
+            @Html.DisplayName("Category")
+        </dt>
+        @foreach (var item in Model.Categories)
+        {
+            <dd>
+                @item.Name
+            </dd>
+        }
+    </dl>
+</div>
+<div>
+    <br />
+    <br />
+    <label>Products in This Brand</label>
+        <div class="card-group">
+    @foreach (var item in Model.Products)
+    {
+            <div class="badge">
+                <div class="card" style="width: 18rem; height:22rem;">
+                    <a href="~/Products/Details/@item.Id">
+                        <img src="~/Content/@item.Imageurl" class="card-img-top" alt="..." style="width:200px; height:230px;">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text">@item.Descripton</p>
+                            <p class="btn btn-primary">@item.Cost</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+    }
+        </div>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.brand.Id }, new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+</p>

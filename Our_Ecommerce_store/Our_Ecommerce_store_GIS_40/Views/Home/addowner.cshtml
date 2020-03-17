@@ -1,0 +1,15 @@
+﻿
+@model dynamic
+<form method="post">
+    <label for="Email">Email</label>
+
+    @Html.DropDownList("Email", new SelectList(Model, "Email", "Email"))
+
+
+
+
+    <input id="btn" name="add Role " type="submit" value="Add" class="btn-primary" />
+
+
+
+</form>

@@ -1,0 +1,67 @@
+﻿@model Cat_Pro_Bra_viewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("+ Create New", "Create", null, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Brand Name</th>
+            <th>
+                <label>Categories: </label>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Brands)
+        {
+            <tr>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @foreach (var aa in item.cat_List)
+                {
+                        <h5>@aa.Name</h5>
+                    }
+                </td>
+                <td></td>
+                <td></td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" }) |
+                    @{
+                        var data = item.Id;
+                    }
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-primary" }) |
+                    <a  class="btn btn-danger"  onclick="deleteBtn(@item.Id)">Delete</a>
+                </td>
+            </tr>
+            <tr></tr>
+                        }
+    </tbody>
+
+</table>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script>
+    function deleteBtn(id) {
+        console.log(6666);
+        var res=window.confirm("Are you Sure? ")
+        if (res) {
+            window.location.href = "/brands/delete/" + id;
+        }
+
+    
+    }
+</script>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>

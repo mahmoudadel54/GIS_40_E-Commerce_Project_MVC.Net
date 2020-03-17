@@ -1,0 +1,66 @@
+﻿@model Cat_Pro_Bra_viewModel
+
+@{
+    ViewBag.Title = "Edit";
+    var idBrand = Model.brand.Id;
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("Edit", "Brands", FormMethod.Post, new { @class = "col-6" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <h4>Brands</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.brand.Id)
+
+        <div class="form-group">
+            @Html.Label("Name of Brand")
+            @Html.EditorFor(model => model.brand.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.brand.Name, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Category of the Brand")
+            @Html.DropDownList("Id",
+               new SelectList(Model.Categories, "Id", "Name"),
+               "- Please select Category of Brand -", new { @class = "form-control" })
+        </div>
+        <hr />
+        <div class="form-group">
+            @Html.Label("Chosen Categories: ")
+            @Html.Label("      ")
+            @foreach (var item in Model.brand.cat_List)
+                {
+                <div class="form-group">
+
+                    <label>@item.Name</label>
+                    <a  onclick="catDelete(@idBrand,@item.Id)" class="btn btn-outline-primary">delete</a>
+                </div>
+            }
+        </div>
+        <hr />
+    </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a href="/brands/index" class="btn btn-outline-primary">Back to List</a>
+            </div>
+        </div>
+
+}
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script>
+    function catDelete(idBrand, idCat) {
+        var del=confirm("Are you Sure?? ");
+        if (del) {
+            location.href = "/brands/deleteCatFromBrand/" + idCat + "/?" +"idBrand="+ idBrand
+            
+        }
+    }
+</script>

@@ -1,0 +1,180 @@
+﻿@{
+    ApplicationDbContext db = new ApplicationDbContext();
+    ViewBag.cat = db.categories.ToList();
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/ Content / fontawesome")
+
+
+</head>
+
+<body>
+    <style>
+        #nav {
+            float: left;
+            font: bold 12px Arial, Helvetica, Sans-serif;
+            overflow: hidden;
+            width: 100%;
+            padding: 0px;
+        }
+
+        body {
+            padding: 0px;
+        }
+
+        .mysearch {
+            position: center;
+            margin-left: 350px;
+        }
+
+        .row {
+            position: relative;
+            margin: 20px;
+        }
+
+        .fr {
+            position: absolute;
+        }
+        body {
+  background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+  color: #514B64;
+  min-height: 100vh;
+}
+
+code {
+  background: #fff;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0 0.3rem;
+}
+.mysearch{
+	    max-width: 804px;
+	margin-left: 200px;
+}
+.mynav{
+	padding-bottom: 0rem!important;
+	padding-top: 0rem!important;
+}
+.container{
+	margin-left: 10px;
+}
+.MyLogin{
+        position: relative;
+    left: 268px;
+}
+    </style>
+    <nav class="navbar navbar-expand-lg py-3 navbar-dark bg-dark shadow-sm " style="padding-bottom: 0rem!important; padding-top: 0rem!important">
+        <div class="container" style="margin-left: 0rem!important">
+            <a href="~/home/index" class="navbar-brand">
+                
+                 <img src="~/Images/oo.png" width="45" alt="" class="d-inline-block align-middle mr-2">
+                <!-- Logo Text -->
+
+                <span class="text-uppercase font-weight-bold">AS7AB ELSOUQ</span>
+            </a>
+
+            <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
+
+            <div id="navbarSupportedContent" class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto " style="margin-left: 0rem!important">
+                    <li class="nav-item active"><a href="~/Home/Index" class="nav-link">Home <span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a href="~/Home/About" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="~/Home/Contact" class="nav-link">Contact</a></li>
+
+
+
+                </ul>
+
+                @Html.Partial("_LoginPartial")
+
+            </div>
+           
+               
+            @if (!User.IsInRole("admin"))
+            {  <a href='@Url.Action("Index", "Cart")'>
+                <img src='@Url.Content("~/Content/cart1.png")' width="45" alt="" class="d-inline-block align-middle mr-2">
+            </a>}
+
+           
+        </div>
+    </nav>
+    <nav class="navbar navbar-light bg-dark" style="padding-top: 0px;">
+        
+        <form class="form-inline" method="post" action="~/Home/searching/">
+            <input class="form-control mr-sm-2 mysearch" type="search" placeholder="Search" name="search" aria-label="Search" width="800px" style="width: 770px ; margin-left: 250px">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </nav>
+   <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav" style="    margin: auto;">
+            <li class="nav-item active">
+                @Html.ActionLink("All Categories", "ListCategories", "Categories", null, new { @class = "btn btn-success", Style = "margin-left:10px" })
+            </li>
+
+            @foreach (Categories CatName in ViewBag.cat)
+            {
+
+
+                <li class="nav-item">
+                    @Html.ActionLink(CatName.Name, "CardCategories/" + CatName.Id, "Categories", null, new { @class = "btn btn-outline-primary", Style = "margin-left:10px" })
+                </li>
+            }
+
+        </ul>
+    </div>
+</nav>
+  
+    @if (User.IsInRole("admin"))
+    {
+        <div class="btn-dark" style="display:flex; margin:auto">
+            <div style="margin:auto">
+                <a href="~/Home/addowner" class="btn btn-light">Add Owner</a>
+                <a href="~/products/Index" class="btn btn-light">All Products in Website</a>
+                <a href="~/Categories/Create" class="btn btn-light">Add Categories</a>
+                <a href="~/Brands/Create" class="btn btn-light">Add Brands</a>
+                <a href="~/Products/Create" class="btn btn-light">Add Products</a>
+                <a href="~/Products/cofirmproducts" class="btn btn-light">Waiting products list </a>
+
+            </div>
+        </div>
+    }
+    @if (User.IsInRole("owner"))
+    {
+        <div class="btn-dark" style="display:flex; margin:auto">
+            <div style="margin:auto">
+                <a href="~/Products/Create" class="btn btn-light">Add Products</a>
+                <a href="~/Products/Index" class="btn btn-light">All Your Products</a>
+            </div>
+        </div>    }
+    <div class="container body-content" style="margin:auto">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
+

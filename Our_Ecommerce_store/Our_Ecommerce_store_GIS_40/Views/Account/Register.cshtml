@@ -1,0 +1,54 @@
+﻿@model Our_Ecommerce_store_GIS_40.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+
+<br />
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-group ", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4 class="display-4">Create a new account.</h4>
+    <hr />
+    <div class="form-group">
+        @Html.LabelFor(m => m.F_Name, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.F_Name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(e => e.F_Name, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(e => e.Email, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor(e => e.Password, null, new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            @Html.ValidationMessageFor(e => e.ConfirmPassword, null, new { @class = "text-danger" })
+        </div>
+
+    </div>
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-success" value="Register" style="margin-left: 81px;" />
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
